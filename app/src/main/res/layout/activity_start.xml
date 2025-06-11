@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".User.StartActivity">
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomNavigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="30dp"
+        android:background="@drawable/bottom_background"
+        android:elevation="2dp"
+        app:itemIconSize="30dp"
+        app:itemIconTint="@drawable/item_selector"
+        app:itemRippleColor="@android:color/transparent"
+        app:labelVisibilityMode="unlabeled"
+        app:menu="@menu/bottom_menu" />
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="15dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="India"
+                android:textAlignment="center"
+                android:textColor="@color/green"
+                android:textSize="40dp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.587"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.048" />
+
+
+            <ImageButton
+                android:id="@+id/imageBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="235dp"
+                android:layout_marginTop="10dp"
+                android:scaleType="fitCenter"
+                app:cardElevation="30dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.176"
+                android:background="@drawable/redfort"
+                />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:layout_marginTop="30dp"
+                android:text="Province of India"
+                android:textAlignment="center"
+                android:textColor="@color/green"
+                android:textSize="28dp"
+                android:textStyle="bold"
+                app:cardElevation="30dp"
+                app:fontFamily="serif"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.482" />
+
+
+            <ImageButton
+                android:id="@+id/imageBtn2"
+                android:layout_width="372dp"
+                android:layout_height="235dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/tajmahal2"
+                android:scaleType="fitCenter"
+                app:cardElevation="30dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.176" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Taj Mahal"
+                android:layout_gravity="center"
+                android:textAlignment="center"
+                android:textColor="@color/green"
+                android:textSize="19dp"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/imageBtn3"
+                android:layout_width="wrap_content"
+                android:layout_height="235dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/varanasi2"
+                android:scaleType="fitCenter"
+                app:cardElevation="30dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.176" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Varanasi"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:textColor="@color/green"
+                android:textSize="19dp"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/imageBtn4"
+                android:layout_width="match_parent"
+                android:layout_height="235dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/jaipur"
+                android:scaleType="fitCenter"
+                app:cardElevation="30dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.176" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Jaipur"
+                android:textAlignment="center"
+                android:textColor="@color/green"
+                android:layout_gravity="center"
+                android:textSize="19dp"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/imageBtn5"
+                android:layout_width="match_parent"
+                android:layout_height="235dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/ladakh"
+                android:scaleType="fitCenter"
+                app:cardElevation="30dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.176" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ladakh"
+                android:textAlignment="center"
+                android:textColor="@color/green"
+                android:layout_gravity="center"
+                android:textSize="19dp"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/imageBtn6"
+                android:layout_width="wrap_content"
+                android:layout_height="235dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/kerela"
+                android:scaleType="fitCenter"
+                app:cardElevation="30dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.176" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Kerela"
+                android:textAlignment="center"
+                android:textColor="@color/green"
+                android:layout_gravity="center"
+                android:textSize="19dp"
+                android:textStyle="bold" />
+
+
+            <ImageButton
+                android:id="@+id/imageBtn7"
+                android:layout_width="wrap_content"
+                android:layout_height="235dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/mysore"
+                android:scaleType="fitCenter"
+                app:cardElevation="30dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.176" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mysore"
+                android:textAlignment="center"
+                android:textColor="@color/green"
+                android:layout_gravity="center"
+                android:textSize="19dp"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/imageBtn8"
+                android:layout_width="wrap_content"
+                android:layout_height="235dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/ahmedabad"
+                android:scaleType="fitCenter"
+                app:cardElevation="30dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.176" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ahmedabad"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:textColor="@color/green"
+                android:textSize="19dp"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/imageBtn9"
+                android:layout_width="wrap_content"
+                android:layout_height="235dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/ajanta"
+                android:scaleType="fitCenter"
+                app:cardElevation="30dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.176" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ajanta and Ellora"
+                android:textAlignment="center"
+                android:textColor="@color/green"
+                android:layout_gravity="center"
+                android:textSize="19dp"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/imageBtn10"
+                android:layout_width="wrap_content"
+                android:layout_height="235dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/goa"
+                android:scaleType="fitCenter"
+                app:cardElevation="30dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.176" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Goa"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:textColor="@color/green"
+                android:textSize="19dp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

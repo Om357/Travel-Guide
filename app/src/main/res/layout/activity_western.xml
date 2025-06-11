@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context=".User.WesternActivity">
+<ScrollView
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:padding="15dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.SearchView
+            android:id="@+id/search_bar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            app:iconifiedByDefault="false"
+            app:queryHint="search Here" />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="NORTHERN INDIA"
+            android:textAlignment="center"
+            android:textColor="@color/green"
+            android:textSize="36dp"
+            android:textStyle="bold"
+            app:fontFamily="sans-serif-smallcaps"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.587"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.048" />
+
+        <TextView
+            android:id="@+id/textViewWes"
+            android:layout_width="364dp"
+            android:padding="20dp"
+            android:layout_height="wrap_content"
+            android:text="Northern India stands as a captivating tapestry of diverse landscapes, rich history, and vibrant culture, offering travelers an array of enchanting destinations. Agra, home to the iconic Taj Mahal, narrates a tale of timeless love through its exquisite architecture and lush gardens. The Pink City of Jaipur, adorned with majestic forts like Amber Fort and City Palace, immerses visitors in the grandeur of Rajasthan's royal past.\n\nVaranasi, situated on the banks of the sacred Ganges River, is a spiritual haven where ancient rituals, colorful ghats, and the mesmerizing Ganga Aarti create an otherworldly experience. Nestled in the Himalayan foothills, the hill stations of Shimla and Manali beckon with their scenic beauty, offering a blend of relaxation and adventure.\n\nAmritsar, with the resplendent Golden Temple, is a symbol of Sikh spirituality and unmatched hospitality, drawing pilgrims and tourists alike. Kashmir, often referred to as Paradise on Earth, captivates with its heavenly landscapes, pristine lakes, and the tranquil Dal Lake, creating an idyllic retreat.\n\nDelhi, the bustling capital, seamlessly integrates ancient and modern facets. Historical landmarks like the Red Fort and Qutub Minar coexist with vibrant markets and contemporary urban life. From the arid deserts of Rajasthan to the snow-capped peaks of the Himalayas, Northern India beckons travelers to explore its kaleidoscope of experiences, fostering a deep appreciation for the region's diverse heritage."
+            android:textColor="@color/black"
+            android:textSize="14dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:text="Locations"
+            android:textAlignment="center"
+            android:textColor="@color/green"
+            android:textSize="28dp"
+            android:textStyle="bold"
+            app:fontFamily="monospace"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.587"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.048" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:scaleType="fitCenter"
+            android:layout_width="match_parent"
+            android:layout_height="155dp"
+            app:srcCompat="@drawable/tajmahalmap" />
+
+        <ListView
+            android:id="@+id/listview"
+            android:layout_width="wrap_content"
+            android:padding="20dp"
+            android:layout_height="628dp"
+            android:textSize="28dp"
+            android:textColor="@color/green"
+            >
+        </ListView>
+
+    </LinearLayout>
+</ScrollView>
+</RelativeLayout>
+
+
+
+
+
+
+

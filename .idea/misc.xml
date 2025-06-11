@@ -1,0 +1,128 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable/bottom_background.xml" value="0.2215" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable/call.xml" value="0.2305" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable/checklist.xml" value="0.2305" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable/clear.xml" value="0.2305" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable/compass.xml" value="0.2305" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable/custom_edittext.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable/dark_mode.xml" value="0.177" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable/green_border.xml" value="0.1905" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable/green_round.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable/help.xml" value="0.2305" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable/home.xml" value="0.1995" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1525" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable/ic_baseline_compass_calibration_24.xml" value="0.1735" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable/ic_baseline_lock_reset_24.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable/ic_user.xml" value="0.2305" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable/item_selector.xml" value="0.2215" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable/login_eye.xml" value="0.235" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable/login_lock.xml" value="0.235" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable/login_mail.xml" value="0.235" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable/login_user.xml" value="0.235" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable/logout.xml" value="0.229" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable/menu.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable/nav_compass.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable/nav_logout.xml" value="0.186" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable/notification.xml" value="0.177" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable/rate.xml" value="0.2305" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable/temp.xml" value="0.2305" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable/user.xml" value="0.2305" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/drawable/white_box.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_accountsettings.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_acoount_settings.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_adawela.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_adawela_waterfall.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_add_note.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_add_to_do.xml" value="0.11398176291793313" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_bodhihinagala_forest.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_central_province.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_check_list.xml" value="0.10486322188449848" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_checklist.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_colombo.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_compass.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_contact_us.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_data_base_helper.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_details.xml" value="0.19655797101449277" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_deyyagala_dola.xml" value="0.15896739130434784" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_eastern_province.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_edit_to_do.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_favourite.xml" value="0.2164855072463768" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_forgotpassword.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_gampaha.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_ganagaramaya.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_gangaramaya_park.xml" value="0.11639492753623189" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_home.xml" value="0.27239583333333334" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_kabaradola_ella.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_kalutara.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_kalutara2.xml" value="0.12318840579710146" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_kaluthara.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_language.xml" value="0.1157548125633232" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_list.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_lists.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_login_screen.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_main.xml" value="0.26145833333333335" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_map.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_maps.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_menu.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_mode.xml" value="0.2164855072463768" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_northcentral_province.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_northern_province.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_northwestern_province.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_note.xml" value="0.10714285714285714" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_note_todo.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_notes.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_notification.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_pahiyangala.xml" value="0.15896739130434784" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_privacy.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_rate_app.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_sabaragamuwa.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_sabaragamuwa_province.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_settings.xml" value="0.21754385964912282" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_sign_up.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_single_to_do.xml" value="0.10714285714285714" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_slmap.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_smaps.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_southern.xml" value="0.12454710144927536" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_southern_province.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_sri_lanka.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_start.xml" value="0.21527421834956434" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_temp.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_tguide.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_thotas_ella.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_to_do.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_to_do_adapter.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_todo_note.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_uva_province.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_western.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/activity_western_province.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/add_newtask.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/search_map.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/single_todo.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/layout/task_layout.xml" value="0.11398176291793313" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TravelGuide10/app/src/main/res/menu/bottom_menu.xml" value="0.1" />
+        <entry key="..\:/android/TravelGuide10/app/src/main/res/layout/activity_login_screen.xml" value="0.23802083333333332" />
+        <entry key="..\:/android1/tg change temp/TravelGuide10/app/src/main/res/drawable/home.xml" value="0.1" />
+        <entry key="..\:/android1/tg change temp/TravelGuide10/app/src/main/res/drawable/ic_baseline_compass_calibration_24.xml" value="0.1" />
+        <entry key="..\:/android1/tg change temp/TravelGuide10/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.1" />
+        <entry key="..\:/android1/tg change temp/TravelGuide10/app/src/main/res/layout/activity_compass.xml" value="0.1875" />
+        <entry key="..\:/android1/tg change temp/TravelGuide10/app/src/main/res/layout/activity_menu.xml" value="0.2" />
+        <entry key="..\:/android1/tg change temp/TravelGuide10/app/src/main/res/layout/activity_sri_lanka.xml" value="0.1" />
+        <entry key="..\:/android1/tg change temp/TravelGuide10/app/src/main/res/layout/activity_start.xml" value="0.1875" />
+        <entry key="..\:/android1/tg change temp/TravelGuide10/app/src/main/res/layout/activity_temp.xml" value="0.1875" />
+        <entry key="..\:/android1/tg change temp/TravelGuide10/app/src/main/res/layout/activity_western.xml" value="0.23233695652173914" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

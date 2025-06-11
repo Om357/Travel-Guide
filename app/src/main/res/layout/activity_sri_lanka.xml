@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".User.SrilankaActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="30dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="India"
+                android:textAlignment="center"
+                android:textColor="@color/green"
+                android:textSize="40dp"
+                android:textStyle="bold"
+                app:fontFamily="sans-serif-smallcaps"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.249"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.085" />
+
+            <Button
+                android:id="@+id/showMap"
+                android:layout_width="match_parent"
+                android:layout_height="51dp"
+                android:background="#00000000"
+                android:text="Here is the Location of India"
+                android:textAllCaps="false"
+                android:textColor="@color/linkblue"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.9"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.069" />
+
+            <VideoView
+                android:id="@+id/videoView"
+                android:layout_width="match_parent"
+                app:circularflow_defaultRadius="70dp"
+                android:layout_height="209dp" />
+
+            <TextView
+                android:id="@+id/aboutsrilanka"
+                android:layout_width="match_parent"
+                android:layout_height="753dp"
+                android:text="@string/Travel_description"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.641"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.949" />
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="match_parent"
+                android:layout_height="370dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.472"
+                app:srcCompat="@drawable/indianmap" />
+
+            <TextView
+                android:id="@+id/province"
+                android:layout_width="332dp"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:layout_height="46dp"
+                android:text="@string/nthere_are_9_province_in_india_n_n"
+                android:textAlignment="center" />
+            <TextView
+                android:id="@+id/provinceList"
+                android:layout_width="match_parent"
+                android:layout_height="201dp"
+                android:textColor="@color/black"
+                android:text="@string/Top_10_places"
+                />
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>
+
